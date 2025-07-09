@@ -16,7 +16,7 @@ img_size = 128  # must match model input size
 # Sidebar
 with st.sidebar:
     # Profile Image
-    image = Image.open(r"C:\Users\frhan\Desktop\Photo2-photoaidcom-cropped.jpg")
+    image = Image.open(r"MyPhoto.jpg")
     st.image(image, width=150)
     
     st.markdown("<h3 style='text-align: center;'>Farhan Ahmed</h3>", unsafe_allow_html=True)
