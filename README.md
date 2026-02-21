@@ -6,6 +6,15 @@ This project represents the **first version** of my Brain Tumor Detection system
 
 ---
 
+## 🚀 Live Demo
+
+🌐 Streamlit Deployment:  
+https://brain-tumor-detection-cnn-app.streamlit.app/
+
+> ⚠️ Note: The application may take some time to load due to Streamlit Cloud free-tier cold start behavior.
+
+---
+
 ## 🚀 Project Overview
 
 This application allows users to:
@@ -74,8 +83,8 @@ Because of these constraints, I redesigned the system with a more scalable archi
 
 To overcome Streamlit’s free-tier limitations, I rebuilt the entire system as a full-stack production-ready application:
 
-👉 **NeuroScan AI – Full Stack Version**
-🔗 https://github.com/frhanahmed/NeuroScan-AI
+👉 **NeuroScan AI – Full Stack Version**  
+🔗 https://github.com/frhanahmed/NeuroScan-AI  
 
 ### Improvements in v2:
 
